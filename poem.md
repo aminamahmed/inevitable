@@ -1,4 +1,6 @@
- What has been will be,
+ # Inevitable
+ 
+ _What_ has been will be,
      'Tis the under law of life;
     'Tis the song of sky and sea,
      To the key of calm and strife.
@@ -56,4 +58,6 @@
     There is no fate -- God's love
      Is law beneath each law,
     And law all laws above
-     Fore'er, without a flaw.
+    Fore'er, without a flaw.
+     -- *Abram Joseph Ryan*
+http://www.public-domain-poetry.com/abram-joseph-ryan/inevitable-30236
